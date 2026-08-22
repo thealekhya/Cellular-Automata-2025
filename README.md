@@ -88,3 +88,4 @@ The GMACA tools sample from a curated pool of 37 rules derived from group-theore
 
 The Jupyter notebooks analyze the CSV output from the C++ tools - visualizing attractor landscapes, basin structures, impurity effects, and identifying MACA candidates. Requires Python with pandas, matplotlib, seaborn, and numpy.
 
+

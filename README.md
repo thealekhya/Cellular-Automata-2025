@@ -1,6 +1,6 @@
 ﻿# Cellular Automata — GMACA & MACA Analysis Toolkit
 
-A C++ and Python toolkit for studying **Group Modified Asynchronous Cellular Automata (GMACA)** and **Maximum length Additive Cellular Automata (MACA)** — focusing on attractor analysis, reversibility, basin-of-attraction decomposition, and impurity effects.
+A C++ and Python toolkit for studying **Generalized Multiple Attractor Cellular Automata (GMACA)** and **Multiple Attractor Cellular Automata (MACA)** — focusing on attractor analysis, reversibility, basin-of-attraction decomposition, and impurity effects.
 
 ## Repository Structure
 
@@ -87,3 +87,4 @@ The GMACA tools sample from a curated pool of 37 rules derived from group-theore
 ## Notebooks
 
 The Jupyter notebooks analyze the CSV output from the C++ tools - visualizing attractor landscapes, basin structures, impurity effects, and identifying MACA candidates. Requires Python with pandas, matplotlib, seaborn, and numpy.
+
